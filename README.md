@@ -9,3 +9,7 @@ Supposed page side is [even number:left side, odd number:right side].
 ### widerTFtoText.jsx
 A small tool to avoid spreading overflowed inline textframes one by one. 
 While 'fit to contents'menu spreads the textframes both horizontally and vertically, this tool spreads only horizontally.
+
+## Note
+- We shall not be liable for any damages that may result from downloaded data.
+- We don't accept technical support such as instructing how to install/use software.

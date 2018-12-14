@@ -1,6 +1,6 @@
 # indesign_javascript
 
-javascript small tools etc. for convenience.
+javascript tools etc. for operators' convenience.
 
 ### remove_certain_VBounds_TFrames.jsx 
 Delete textFrames which visiblebounds are within [the targeted area +- allowance] area across all pages in a document.

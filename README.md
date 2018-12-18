@@ -11,9 +11,10 @@ A small tool to convert digits or alphabets in selected items to _zenkaku_ chara
 
 ### widerTFtoText.jsx
 A small tool to avoid spreading overflowed inline textframes one by one. 
-While 'fit to contents'menu spreads the textframes both horizontally and vertically, this tool spreads only horizontally.
+While 'fit to contents'menu spreads the textframes both horizontally and vertically, this tool spreads only horizontally.<br><br>
+<img src="https://github.com/araiprepress/indesign_javascript/blob/master/imgs/in_01.png" title="Wider overflowed text frames" width="450px">
 
-### License 
+## License 
 licensed under the MIT license.
 
 ## Note
